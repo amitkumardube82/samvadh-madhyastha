@@ -1,0 +1,5 @@
+server:
+  port: 9999
+madhyastha:
+  endpoint: "https://sam1.gyanada.in/bigbluebutton/api"
+  salt: "cJgF1zxc8MjkiLO6FFfqquBL8rL3c9H9vlrfNyZUbL8"
